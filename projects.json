@@ -1,7 +1,7 @@
 [{
 	"name": "Reader",
 	"tagline": "Realtime Collaboration Tool for Schools",
-	"desc": "<p>Reader is a collaborative reading tool for students that allows students to discuss passages and ask questions inline in Reader's intelligent eBook reader.</p><p><i>Node, MongoDB and Meteor. Web, iOS and Android (Cordova)</i></p>",
+	"desc": "<p>Reader is a collaborative reading tool for students that allows students to discuss passages and ask questions inline in Reader's intelligent eBook reader.</p><p><i>Node, MongoDB and Meteor. Web, iOS/Android (Cordova)</i></p>",
 	"imgsrc": "http://jainlabs.com/img/work/reader/bar.png",
 	"link": "http://reader.jainlabs.com"
 },
