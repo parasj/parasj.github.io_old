@@ -10,7 +10,7 @@
 		"name": "Infinite Loop",
 		"tagline": "Intelligent Mood-Matching Music Player",
 		"desc": "<p>Infinite Loop plays a long stream of music matched to the user's moods. Music analysis algorithms extract key datapoints such as tempo and key from a user's private library. Users can stream music through searches like `airy electronic pop`</p><p><i>Node, Python, MongoDB, Celery+RabbitMQ on Web/iOS</i></p>",
-		"imgsrc":"//dl.dropboxusercontent.com/u/2724547/serve/parasjaincom/res/infloop.png",
+		"imgsrc":"//dl.dropboxusercontent.com/u/2724547/serve/parasjaincom/res/infloop.jpg",
 		"link": ""
 	},
 	{
