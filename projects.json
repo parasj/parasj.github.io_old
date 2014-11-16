@@ -1,14 +1,23 @@
-[{
-	"name": "Reader",
-	"tagline": "Realtime Collaboration Tool for Schools",
-	"desc": "<p>Reader is a collaborative reading tool for students that allows students to discuss passages and ask questions inline in Reader's intelligent eBook reader.</p><p><i>Node, MongoDB and Meteor on Web, iOS/Android (Cordova)</i></p>",
-	"imgsrc": "https://dl.dropboxusercontent.com/u/2724547/serve/parasjaincom/res/reader.png",
-	"link": "http://reader.jainlabs.com"
-},
-{
-	"name": "Infinite Loop",
-	"tagline": "Intelligent Mood-Matching Music Player",
-	"desc": "<p>Infinite Loop plays a long stream of music matched to the user's moods. Music analysis algorithms extract key datapoints such as tempo and key from a user's private library. Users can stream music through searches like `airy electronic pop`</p><p><i>Node, Python, MongoDB, Celery/RabbitMQ on Web and iOS</i></p>",
-	"imgsrc":"//dl.dropboxusercontent.com/u/2724547/serve/parasjaincom/res/infloop.png",
-	"link": ""
-}]
+[
+	{
+		"name": "Reader",
+		"tagline": "Realtime Collaboration Tool for Schools",
+		"desc": "<p>Reader is a collaborative reading tool for students that allows students to discuss passages and ask questions inline in Reader's intelligent eBook reader.</p><p><i>Node, MongoDB and Meteor on Web, iOS/Android (Cordova)</i></p>",
+		"imgsrc": "https://dl.dropboxusercontent.com/u/2724547/serve/parasjaincom/res/reader.png",
+		"link": "http://reader.jainlabs.com"
+	},
+	{
+		"name": "Infinite Loop",
+		"tagline": "Intelligent Mood-Matching Music Player",
+		"desc": "<p>Infinite Loop plays a long stream of music matched to the user's moods. Music analysis algorithms extract key datapoints such as tempo and key from a user's private library. Users can stream music through searches like `airy electronic pop`</p><p><i>Node, Python, MongoDB, Celery+RabbitMQ on Web/iOS</i></p>",
+		"imgsrc":"//dl.dropboxusercontent.com/u/2724547/serve/parasjaincom/res/infloop.png",
+		"link": ""
+	},
+	{
+		"name": "Radioactive",
+		"tagline": "Personalized, Adaptive Learning",
+		"desc": "<p>Radioactive is a mobile app that allows students to learn rapidly with higher repitition by adaptively delivering content while strategically quizzing to guide their learning plan.</p><p><i>PHP, jQuery Mobile, Cordova on iOS/Android</i></p>",
+		"imgsrc":"http://jainlabs.com/img/work/radioactive.png",
+		"link": ""
+	}
+]
